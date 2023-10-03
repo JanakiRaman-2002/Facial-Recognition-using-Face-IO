@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@faceio/fiojs": "^1.1.0",
+    "@headlessui/react": "^1.7.17",
+    "face-api.js": "^0.22.2",
+    "heroicons-react": "^1.4.1",
+    "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-dom": "latest"
   },
   "devDependencies": {
     "autoprefixer": "latest",
